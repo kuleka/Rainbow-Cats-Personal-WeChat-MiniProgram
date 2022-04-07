@@ -4,8 +4,8 @@ App({
 
     this.globalData = {
       // Record all the users openId
-      kirbyOpenId: 'onsgK5XqCMLbYXudVgh3xjV4kgWw',
-      deeOpenId: 'onsgK5Zc7t-bFdnFk3_krqdIRZYY',
+      kirbyOpenId: 'oZVbs5HNNbwUC5cnNI7ZEjm4HstA',
+      deeOpenId: 'oZVbs5BjoGZXsiLliSXeqPsunyiA',
       // 用于存储待办记录的集合名称
       collectionMissionList: 'MissionList',
       collectionMarketList: 'MarketList',
